@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg3100"
+   version="1.1"
+   viewBox="0 0 16 22"
+   height="22mm"
+   width="16mm">
+  <defs
+     id="defs3094" />
+  <metadata
+     id="metadata3097">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-275)"
+     id="layer1">
+    <g
+       transform="translate(-101.56778,101.43415)"
+       id="g3118">
+      <g
+         transform="matrix(0.10584631,0,0,0.10584631,75.328808,150.99228)"
+         id="g3068">
+        <path
+           style="fill:none;stroke:#2d2d2d;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 292.84807,260.42046 -31.01246,31.04695 31.05823,31.02375 31.05822,31.02375 31.01247,-31.04696 31.01246,-31.04695 -31.05824,-31.02374 -31.05822,-31.02374 z"
+           id="path3837-2" />
+        <path
+           style="fill:none;stroke:#2d2d2d;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 292.23968,307.7658 -30.40407,30.78544 31.03533,31.28526 31.03537,31.28525 31.03533,-31.28525 31.03535,-31.28526 -30.40407,-30.78544 c -16.72224,-16.93198 -30.91305,-30.15417 -31.66661,-30.78544 -0.74373,0.71018 -14.94438,13.85346 -31.66663,30.78544 z"
+           id="path3835-7" />
+        <path
+           style="fill:#7794d0;fill-opacity:1;stroke:none"
+           d="m 311.52162,327.18575 -12.53652,-12.40713 11.56134,-11.47555 c 6.35872,-6.31154 12.00617,-11.85914 12.54986,-12.32798 l 0.98855,-0.85246 12.37156,12.37611 12.37156,12.37609 -12.38489,12.35902 -12.38492,12.35903 z"
+           id="path3857-0" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+#masthead.diseno {
+    height: 370px;
+    background-image: url('../img/diseno.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card  {
+    overflow: hidden;
+}
+.card img {
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out ;
+    overflow: hidden;
+}
+.card:hover img {
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out ;
+    overflow: hidden;
+    transform: scale(0.8);
+}

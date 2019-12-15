@@ -1,0 +1,52 @@
+#masthead.webs {
+    height: 370px;
+    background-image: url('../img/computer.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card  {
+    overflow: hidden;
+}
+.card img {
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out ;
+    overflow: hidden;
+}
+.card:hover img {
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out ;
+    overflow: hidden;
+    transform: scale(0.8);
+}
+#section-4 #tamogue {
+    background-image: url(../img/webs/tamogue.png);
+}
+#section-4 #tt3k {
+    background-image: url(../img/webs/tt3k.png);
+}
+#section-4 #surbat {
+    background-image: url(../img/webs/surbat.png);
+}
+#section-4 #attitude {
+    background-image: url(../img/webs/attitudedance.png);
+}
+#section-4 #pdm {
+    background-image: url(../img/webs/pdmjeans.com.png);
+}
+#section-4 #san-blas {
+    background-image: url(../img/webs/san-blas.sigmastorage.online.png);
+}
+#section-4 #tu-habitad {
+    background-image: url(../img/webs/tuhabitat.co.png);
+}
+#section-4 #lexus-co{
+    background-image: url(../img/webs/lexuscolombia.com.png);
+}
