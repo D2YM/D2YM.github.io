@@ -1014,13 +1014,6 @@ ul.list-group:before {
     max-width: 525px;
 }
 
-.card-text:last-child:hover {
-    color: var(--main-color-hover-default);
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-}
 #top {
     position: fixed;
     right: 40px;
