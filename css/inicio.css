@@ -1158,3 +1158,12 @@ ul.list-group:before {
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
+#migithub{
+    font-size: 1.2rem;
+    line-height: 20px;
+    width: 110px;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: auto;
+    text-decoration: none;
+}
